@@ -1,6 +1,8 @@
 ## RTL8812AU/21AU Wireless drivers
 Only for use with Linux & Android
 
+Patch based on this issue https://github.com/aircrack-ng/rtl8814au/issues/32
+
 [![Monitor mode](https://img.shields.io/badge/monitor%20mode-working-brightgreen.svg)](#)
 [![Frame Injection](https://img.shields.io/badge/frame%20injection-working-brightgreen.svg)](#)
 [![GitHub version](https://raster.shields.io/badge/version-v5.6.4.2-lightgrey.svg)](#)
